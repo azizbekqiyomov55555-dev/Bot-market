@@ -6,8 +6,8 @@ from telegram.ext import (
 )
 
 # === SOZLAMALAR ===
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # @BotFather dan olingan token
-ADMIN_ID = 123456789  # Sizning Telegram ID'ingiz
+BOT_TOKEN = "8455182197:AAGKb8MPTOOLE6pDyW-5WVMVOpyHU1oXr-Y"  # @BotFather dan olingan token
+ADMIN_ID = 8537782289  # Sizning Telegram ID'ingiz
 
 # === BOTLAR RO'YXATI (15 ta dan ortiq) ===
 BOTS = {
